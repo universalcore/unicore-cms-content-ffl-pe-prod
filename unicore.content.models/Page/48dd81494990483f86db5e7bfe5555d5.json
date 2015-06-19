@@ -1,0 +1,29 @@
+{
+  "subtitle": "", 
+  "description": "Los nin\u0303os y nin\u0303as pueden ahogarse en menos de dos minutos y en una cantidad m\u00ednima de agua, incluso en una ba\u00f1era. Jam\u00e1s se les debe dejar solos en el agua o cerca de ella.", 
+  "language": "spa_ES", 
+  "title": "Los nin\u0303os y nin\u0303as pueden ahogarse en menos de dos minutos y en una cantidad m\u00ednima de agua, incluso en una ba\u00f1era. Jam\u00e1s se les debe dejar solos en el agua o cerca de ella.", 
+  "primary_category": "c8f7611c01274001a863fbc6c0b3b216", 
+  "created_at": "2015-01-05T12:53:28+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2015-01-12T14:47:20.474660+00:00", 
+  "_version": {
+    "package_version": "0.3.1", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "El ahogamiento puede ocasionar lesiones cerebrales o la muerte. Para evitar que los nin\u0303os y nin\u0303as se ahoguen, los padres y otros cuidadores deberi\u0301an supervisar atentamente a los nin\u0303os y nin\u0303as siempre que este\u0301n en el agua o cerca de ella.\r\n\r\n**En presencia de agua, es importante:**\r\n\r\n - Cubrir los pozos y tanques de agua de manera que los nin\u0303os y nin\u0303as no puedan abrirlos.\r\n - Poner las banderas y cubos boca abajo cuando no se este\u0301n usando, y supervisar siempre a los nin\u0303os y nin\u0303as cuando se este\u0301n ba\u00f1ando.\r\n - Ensenar a los nin\u0303os y nin\u0303as a que se mantengan alejados de las zanjas y desag\u00fces.\r\n - Para las familias que vivan cerca de pozos, instalar un aviso alrededor de la casa con el fin de evitar que los nin\u0303os y nin\u0303as se metan en el agua.\r\n - Para las familias que viven cerca del agua, colocar barras verticales en las terrazas, ventanas y puertas para evitar que los nin\u0303os y nin\u0303as de corta edad caigan al agua.\r\n - Ensenar a los nin\u0303os y nin\u0303as a nadar cuando son peque\u00f1os.\r\n - Hacer que los nin\u0303os y nin\u0303as de corta edad y los que no saben nadar utilicen un sistema de flotaci\u00f3n (chaleco salvavidas) cuando jueguen en el agua. Supervisar siempre a los nin\u0303os y nin\u0303as mientras nadan.\r\n - Ensenar a los nin\u0303os y nin\u0303as a que no naden nunca en corrientes r\u00e1pidas, ni solos.\r\n - En las zonas propensas a inundaciones, vigilar atentamente a los nin\u0303os y nin\u0303as cuando las aguas comiencen a subir; cerciorarse de que todos los miembros de la familia, incluidos los nin\u0303os y nin\u0303as que sean lo bastante mayores para comprender, este\u0301n bien informados de lugares seguros a los que pueden ir si de pronto tuvieran que abandonar el hogar.\r\n\r\n*Si desea informacio\u0301n sobre primeros auxilios despue\u0301s de un ahogamiento, consulte el final de este cap\u00edtulo.*", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 18, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "los-ninos-y-nin-pueden-ahogarse-en-menos-de-dos-minutos-y-en-una-cantidad-minima-de-agua-incluso-en-una-banera-jamas-se-les-debe-dejar-solos-en-el-agua-o-cerca-de-ella", 
+  "uuid": "48dd81494990483f86db5e7bfe5555d5"
+}

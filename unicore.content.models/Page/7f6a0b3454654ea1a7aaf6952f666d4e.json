@@ -1,0 +1,29 @@
+{
+  "subtitle": "", 
+  "description": "La lactancia materna como m\u00e9todo exclusivo de alimentaci\u00f3n durante los primeros seis meses de vida y la lactancia materna continuada despue\u0301s de los seis meses pueden contribuir a reducir los riesgos asociados a la diarrea.", 
+  "language": "spa_ES", 
+  "title": "La lactancia materna como m\u00e9todo exclusivo de alimentaci\u00f3n durante los primeros seis meses de vida y la lactancia materna continuada despue\u0301s de los seis meses pueden contribuir a reducir los riesgos ", 
+  "primary_category": "ec3b20544ae24910b044adecb8267eef", 
+  "created_at": "2015-01-04T17:37:26+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2015-01-11T19:37:07.406699+00:00", 
+  "_version": {
+    "package_version": "0.3.1", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "Cuando un ni\u00f1o o ni\u00f1a padece diarrea, la madre deber\u00eda amamantarle con m\u00e1s frecuencia. Los padres deberi\u0301an ayudar a las madres que amamantan ocup\u00e1ndose del bebe\u0301 enfermo y del resto de la familia y colaborando en las tareas del hogar.\r\n\r\nLa administraci\u00f3n de suplementos de vitamina A, en especial en zonas en las que se registran deficiencias de vitamina A, constituye una medida importante para reducir el riesgo de padecer diarrea. Entre los alimentos que contienen vitamina A, figuran la leche materna, el h\u00edgado, el pescado, los productos l\u00e1cteos, las frutas y verduras de color naranja o amarillo, y las verduras de hoja verde.", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 62, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "la-lactancia-materna-como-metodo-exclusivo-de-alimentacion-durante-los-primeros-seis-meses-de-vida-y-la-lactancia-materna-continuada-despues-de-los-seis-meses-pueden-contribuir-reducir-los-riesgo", 
+  "uuid": "7f6a0b3454654ea1a7aaf6952f666d4e"
+}
