@@ -2,14 +2,14 @@
   "uuid": "e15a6dc299044771b792c1c79880730c", 
   "logo_image_host": "http://thumbor.unicore.io", 
   "locale": "spa_ES", 
-  "image": "5076ff3635f04d70a602e038b5855fec", 
+  "image": "acce76a8d8834d57951e60761a7eb28e", 
   "logo_text": "", 
-  "logo_image": "2f0c1c918acf49129b902107776764ef", 
+  "logo_image": "35bfe395901c44dbaf39a24f19d97106", 
   "_version": {
     "package_version": "0.3.1", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "logo_description": "Para la Vida", 
