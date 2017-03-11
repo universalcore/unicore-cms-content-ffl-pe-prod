@@ -6,12 +6,12 @@
   "primary_category": "2564f42489664e1da6236da40027989a", 
   "created_at": "2014-12-26T21:57:03+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-07-07T21:46:37.737519+00:00", 
+  "modified_at": "2017-03-11T12:21:37.071239+00:00", 
   "_version": {
     "package_version": "0.3.1", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -22,7 +22,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 2, 
+  "position": 6, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "la-atencion-postnatal-para-la-madre-y-el-bebe-disminuye-el-riesgo-de-complicaciones-y-contribuye-que-los-progenitores-y-otros-cuidadores-proporcionen-al-recien-nacido-un-comienzo-saludable-en-la", 
   "uuid": "6c060c7fc2aa456990c3ccb74d7f8a89"
