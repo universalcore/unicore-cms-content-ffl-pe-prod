@@ -3,15 +3,15 @@
   "description": "El paludismo supone un grave peligro para las mujeres embarazadas. Si el paludismo es habitual, es preciso prevenirlo tomando pastillas antipal\u00fadicas prescritas por un trabajador sanitario capacitado, y durmiendo bajo la protecci\u00f3n de un mosquitero tratado con insecticida.", 
   "language": "spa_ES", 
   "title": "El paludismo supone un grave peligro para las mujeres embarazadas. Si el paludismo es habitual, es preciso prevenirlo tomando pastillas antipal\u00fadicas prescritas por un trabajador sanitario capacitado", 
-  "primary_category": null, 
+  "primary_category": "2e9f1a7cf42b4891a93ef9a639cbfba0", 
   "created_at": "2015-01-04T20:30:10+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-01-07T10:19:20.174238+00:00", 
+  "modified_at": "2017-03-11T12:27:48.398871+00:00", 
   "_version": {
     "package_version": "0.3.1", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
