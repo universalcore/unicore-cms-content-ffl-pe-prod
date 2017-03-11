@@ -6,12 +6,12 @@
   "primary_category": "c8f7611c01274001a863fbc6c0b3b216", 
   "created_at": "2015-01-05T12:57:11+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-07-30T00:12:12.574729+00:00", 
+  "modified_at": "2017-03-11T12:22:35.424931+00:00", 
   "_version": {
     "package_version": "0.3.1", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -22,7 +22,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 23, 
+  "position": 6, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "las-quemaduras-pueden-evitarse-manteniendo-los-ninos-alejados-de-los-fuegos-los-fogones-de-la-cocina-los-liquidos-y-alimentos-calientes-y-los-cables-de-electricidad-expuestos", 
   "uuid": "4afd6f150cc147c6abd7e7447cfa098a"
