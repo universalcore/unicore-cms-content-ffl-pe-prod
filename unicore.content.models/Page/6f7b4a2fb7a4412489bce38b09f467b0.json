@@ -3,15 +3,15 @@
   "description": "La inmunizaci\u00f3n es una medida urgente.Todos los ni\u00f1os deben completar el calendario de vacunaci\u00f3n recomendado. Es fundamental proteger a los ni\u00f1os de manera temprana; no obstante, la vacunaci\u00f3n en los dos primeros a\u00f1os de vida reviste una importancia especial.Todos los progenitores y las personas que cuidan a los ni\u00f1os deben seguir las instrucciones de un trabajador sanitario calificado sobre el calendario de vacunaci\u00f3n.", 
   "language": "spa_ES", 
   "title": "La inmunizaci\u00f3n es una medida urgente.Todos los ni\u00f1os deben completar el calendario de vacunaci\u00f3n recomendado. Es fundamental proteger a los ni\u00f1os de manera temprana; no obstante, la vacunaci\u00f3n ", 
-  "primary_category": null, 
+  "primary_category": "0bd04d2d29a5425ba6f404b92877116d", 
   "created_at": "2015-01-04T17:19:16+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-01-07T10:17:45.871010+00:00", 
+  "modified_at": "2017-03-11T12:33:06.970862+00:00", 
   "_version": {
     "package_version": "0.3.1", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
