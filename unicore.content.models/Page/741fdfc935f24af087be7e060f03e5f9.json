@@ -3,15 +3,15 @@
   "description": "Los ni\u00f1os y ni\u00f1as corren peligro siempre que el paludismo est\u00e9 presente. Cualquier ni\u00f1o o ni\u00f1a que tenga fiebre deber\u00eda ser examinado de inmediato por un trabajador sanitario capacitado y recibir un tratamiento antipal\u00fadico tan pronto como sea posible si se le diagnostica paludismo. Las terapias combinadas basadas en la artemisinina son las que recomienda la OMS para el tratamiento del paludismo por Plasmodium falciparum. \u00c9ste es el tipo m\u00e1s grave de paludismo, y es la causa de casi todas las muertes por paludismo.", 
   "language": "spa_ES", 
   "title": "Los ni\u00f1os y ni\u00f1as corren peligro siempre que el paludismo est\u00e9 presente. Cualquier ni\u00f1o o ni\u00f1a que tenga fiebre deber\u00eda ser examinado de inmediato por un trabajador sanitario capacitado y recibi", 
-  "primary_category": null, 
+  "primary_category": "2e9f1a7cf42b4891a93ef9a639cbfba0", 
   "created_at": "2015-01-04T20:27:57+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-01-07T10:19:30.372988+00:00", 
+  "modified_at": "2017-03-11T12:28:09.234737+00:00", 
   "_version": {
     "package_version": "0.3.1", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
