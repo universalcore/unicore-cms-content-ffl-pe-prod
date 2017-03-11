@@ -3,15 +3,15 @@
   "description": "El VIH (virus de la inmunodeficiencia humana) es el virus que causa el SIDA (s\u00edndrome de inmunodeficiencia adquirida). Se trata de una afecci\u00f3n prevenible y tratable, aunque incurable. Las personas pueden infectarse con el VIH por las siguientes v\u00edas: (1) mediante las relaciones sexuales sin protecci\u00f3n con una persona infectada por el VIH; (2) por transmisi\u00f3n de la madre infectada a su beb\u00e9 durante el embarazo, el parto o la lactancia; y (3) por contacto con sangre depositada en jeringuillas, agujas u otros instrumentos punzantes contaminados o a trav\u00e9s de transfusiones con sangre contaminada por el VIH. El VIH no se transmite a trav\u00e9s de contacto casual ni por otras v\u00edas", 
   "language": "spa_ES", 
   "title": "El VIH (virus de la inmunodeficiencia humana) es el virus que causa el SIDA (s\u00edndrome de inmunodeficiencia adquirida). Se trata de una afecci\u00f3n prevenible y tratable, aunque incurable. Las personas ", 
-  "primary_category": null, 
+  "primary_category": "96e250d51b0c4a28ade4c73ff556bd3e", 
   "created_at": "2015-01-04T20:32:22+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-01-07T10:18:54.664490+00:00", 
+  "modified_at": "2017-03-11T12:17:05.421893+00:00", 
   "_version": {
     "package_version": "0.3.1", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
